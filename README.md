@@ -1,30 +1,35 @@
-# Este repositorio tiene ejercicios y ejemplso de JavaScript
+# Desarrollo web en entorno cliente
+#### Repositorio con material del módulo Desarrollo web en entorno cliente.
 
-# Trabajo práctico de JavaScript – Tabla
+<br><br><br><br>
 
-El código resultante siempre tiene que ser lo más limpio y organizado posible.
 
-## Ejercicio 1
 
-Crear una función que cree una tabla.  
-La función deberá devolver un objeto `table`.  
-La función tendrá un parámetro que será un vector con los datos de la tabla.
 
-## Ejercicio 2
+## 📜 Licencia
 
-Crear una función que cree una tabla.  
-La función deberá devolver un objeto `table`.  
-La función tendrá 2 parámetros:
-- un vector con los datos de la tabla
-- un vector con los datos de la cabecera.
+Este material está publicado bajo la licencia  
+[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
-## Ejercicio 3
+Usted es libre de:
 
-Crear una función que cree una tabla.  
-La función deberá devolver un objeto `table`.  
-La función tendrá 2 parámetros:
-- una matriz con los datos de la tabla
-- un vector con los datos de la cabecera.
+- Compartir — copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar — remezclar, transformar y crear a partir del material.
 
-En este caso, la función tendrá múltiples filas de datos.  
-Las filas se corresponderán con las filas de la matriz.
+Bajo los siguientes términos:
+
+- Atribución — Debe dar crédito de manera adecuada, brindar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo del licenciante.
+- NoComercial — No puede utilizar el material con fines comerciales.
+- CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la misma licencia que el original.
+
+Avisos:
+
+- No tiene que cumplir con la licencia para los elementos del material que sean de dominio público o cuando su uso esté permitido por una excepción o limitación aplicable.
+- No se otorgan garantías. La licencia podría no darle todos los permisos que necesita para el uso que pretenda. Por ejemplo, otros derechos como los de publicidad, privacidad o derechos morales pueden limitar la forma en que utilice el material.
+
+Texto legal completo disponible en:  
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
+
+[<img src="img/logo_licencia.png" title="" alt="Licencia CC BY-NC-SA 4.0" width="219">](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+
